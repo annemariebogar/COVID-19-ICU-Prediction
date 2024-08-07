@@ -4,7 +4,7 @@
 <br/>
 ## Summary
 During the COVID-19 Pandemic, many hospitals around the world were overwhelmed with patients in their intensive care units. This resulted in many patients not being able to receive the care that they needed in a safe amount of time, leading to millions of deaths worldwide. The goal of this project is to design a Machine Learning model to predict which patients will and will not eventually require admission to the ICU. The prediction will allow for hospitals to prepare for incoming patients as well as discharge patients that don't need intensive care earlier on.
-<br/
+<br/>
 ## Data
 The [data](https://www.kaggle.com/datasets/S%C3%ADrio-Libanes/covid19) is a CSV file containing COVID-19 patient information from three hospitals in Brazil.<br/><br/>
 Patient Demographic Information
